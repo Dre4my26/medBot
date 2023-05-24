@@ -3,6 +3,7 @@ Lab5 on Artificial Intelligence Systems for ITMO University
 
 ## Installation:
 ```git clone https://github.com/Dre4my26/medBot```
+
 ```pip3 install beautifulsoup4 requests razdel pytelegrambotapi```
 
 ## Usage:
